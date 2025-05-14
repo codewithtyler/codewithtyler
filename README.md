@@ -2,7 +2,7 @@
 
 **Digital Craftsman (Developer/Filmmaker/Creator)**
 
-Welcome! I'm Tyler, an indie developer and educator committed to building and sharing innovative digital solutions. Dive into my projects (soon to be added below) or catch my latest tutorials on my YouTube channel [Tyler Hughes Explains][youtube].
+Welcome! I'm Tyler, an indie developer and educator committed to building and sharing innovative digital solutions. Dive into my projects (soon to be added below) or catch my latest tutorials on my YouTube channel [Tyler Hughes][youtube].
 
    <p align="left">
       <a href="https://www.youtube.com/@CodeWithTylerYT?sub_confirmation=1">
@@ -41,4 +41,4 @@ Welcome! I'm Tyler, an indie developer and educator committed to building and sh
 
 
 [website]: tylerhughes.info
-[youtube]: https://www.youtube.com/@TylerHughesExplains?sub_confirmation=1
+[youtube]: https://www.youtube.com/@CodeWithTylerYT?sub_confirmation=1
